@@ -1,6 +1,7 @@
 ### objCamera
 
 - Responsável por configurar a câmera para facilitar o desenho do inventário no `Draw GUI`
+- Sempre ao abrir o jogo, muda a posição da câmera
 - Define o cursor do jogo
 
 ### objInventoryManager
